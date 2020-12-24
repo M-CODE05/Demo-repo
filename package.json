@@ -1,0 +1,22 @@
+{
+  "name": "demo-repo",
+  "version": "1.0.0",
+  "description": "A demo repo for the dev.to article.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karankartikeya/Demo-repo.git"
+  },
+  "author": "M-code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karankartikeya/Demo-repo/issues"
+  },
+  "homepage": "https://github.com/karankartikeya/Demo-repo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
